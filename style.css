@@ -1,7 +1,6 @@
 #parent-container{
     width: 1440px;
     height: 8818px;
-border: 1px solid red;
 margin: auto;
 background-color: #1d0646;
 /* background-position: center;
@@ -16,7 +15,6 @@ padding: 10px 20px 10px 20px;
 /* border-radius: 48px 0px 0px 0px; */
 display: flex;
 text-align: center;
-border: 1px solid red;
 border-radius: 48px;
 background-color: #27134e;
 color: white;
@@ -46,7 +44,6 @@ justify-content: space-between;
     width: 37.08px;
 height: 23px;
 border: 1.19px 0px 0px 0px;
-border: 1px solid red;
 margin: auto;
 }
 button{
@@ -63,13 +60,11 @@ button{
 height: 356px;
 top: 298px;
 left: 248px;
-border: 1px solid red;
 font-family: Satoshi;
 }
 .heading > h1{
     width: 944px;
 height: 216px;
-border: 1px solid red;
 font-size: 80px;
 font-weight: 900;
 line-height: 108px;
@@ -80,7 +75,6 @@ color: #FFFFFF;
 .heading > h4{
     width: 860.48px;
 height: 64px;
-border: 1px solid red;
 margin: auto;
 font-size: 24px;
 font-weight: 700;
@@ -93,7 +87,6 @@ color: #DADDD8;
 height: 44px;
 top: 610px;
 left: 560.1px;
-border: 1px solid red;
 margin: auto;
 }
 .action > button{
@@ -117,7 +110,6 @@ backdrop-filter: blur(300px)
 .backed > h4{
     width: 142.28px;
 height: 32px;
-border: 1px solid red;
 margin: auto;
 font-family: Satoshi;
 font-size: 24px;
@@ -136,7 +128,6 @@ border-image-source: linear-gradient(122.35deg, rgba(255, 255, 255, 0.21) 19.78%
 background: linear-gradient(92.98deg, rgba(217, 217, 217, 0.07) 32.09%, rgba(217, 217, 217, 0.05) 116.98%);
 }
 .logos > .inside{
-    border: 1px solid red;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -165,7 +156,6 @@ color: white;
 .colum{
     width: 1104px;
 height: 372px;
-border: 1px solid red;
 margin: auto;
 color: white;
 margin-top: 130px;
@@ -173,7 +163,6 @@ margin-top: 130px;
 .colum > h2{
     width: 786px;
 height: 130px;
-border: 1px solid red;
 margin: auto;
 font-family: Satoshi;
 font-size: 48px;
@@ -183,7 +172,6 @@ text-align: center;
 
 }
 .colum > .phts{
-    border: 1px solid red;
 margin: auto;
 margin-top: 20px;
     width: 1104px;
@@ -196,12 +184,10 @@ gap: 20px;
 .sec1{
     width: 1306.03px;
 height: 877.97px;
-border: 1px solid red;
 margin: auto;
 color: white;
 }
 .sec1 > h2{
-    border: 1px solid red;
 margin: auto;
     width: 864px;
 height: 130px;
@@ -212,7 +198,6 @@ line-height: 64.8px;
 text-align: center;
 }
 .sec1 > h4{
-    border: 1px solid red;
     margin: auto;
     width: 776px;
 height: 64px;
@@ -224,7 +209,6 @@ text-align: center;
 }
 
 .sec1 > .child{
-    border: 1px solid red;
     margin: auto;
     width: 1104px;
 height: 369px;
@@ -241,7 +225,7 @@ background-color: #c893f4;
 transform: rotate(15.79 deg) scale(1.5) skew(30deg,20deg);
 } */
  .text > h3{
-    border: 1px solid red;
+
     margin: auto;
     width: 629px;
 height: 86px;
@@ -264,12 +248,11 @@ text-align: left;
  .product{
     width: 1192.62px;
 height: 1027.83px;
-border: 1px solid red;
     margin: auto;
     color: white;
  }
  .product >h2{
-    border: 1px solid red;
+
     margin: auto;
     width: 438px;
 height: 65px;
@@ -280,7 +263,7 @@ line-height: 64.8px;
 text-align: center;
 }
 .Pchild {
-    border: 1px solid red;
+
     margin: auto;
     display: grid;
     grid-template-columns: repeat(3,1fr);
@@ -288,12 +271,11 @@ text-align: center;
 .section4{
     width: 1262px;
 height: 523px;
-border: 1px solid red;
+
     margin: auto;
     color: white;
 }
 .section4 > h2{
-    border: 1px solid red;
     margin: auto;
     width: 699px;
 height: 130px;
@@ -304,7 +286,6 @@ line-height: 64.8px;
 text-align: center;
 }
 .section4 > div{
-    border: 1px solid red;
     margin: auto;
     width: 1030px;
 height: 169px;
