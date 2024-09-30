@@ -1,0 +1,327 @@
+#parent-container{
+    width: 1440px;
+    height: 8818px;
+border: 1px solid red;
+margin: auto;
+background-color: #1d0646;
+/* background-position: center;
+background-repeat: no-repeat;
+background-image: url(); */
+}
+#navbar{
+width: 1,104px;
+height:80px;
+margin: 62px 168px;
+padding: 10px 20px 10px 20px;
+/* border-radius: 48px 0px 0px 0px; */
+display: flex;
+text-align: center;
+border: 1px solid red;
+border-radius: 48px;
+background-color: #27134e;
+color: white;
+border: 1px solid;
+
+border-image-source: linear-gradient(122.35deg, rgba(255, 255, 255, 0.21) 19.78%, rgba(255, 255, 255, 0) 187.39%);
+
+
+}
+#navbar > div{
+    width: 933px;
+height: 60px;
+padding: 10px 14px 10px 14px;
+gap: 42px;
+display: flex;
+justify-content: space-between;
+}
+.left > .midnav{
+    width: 750px;
+    height: 40px;
+    gap: 6px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.navlogo{
+    width: 37.08px;
+height: 23px;
+border: 1.19px 0px 0px 0px;
+border: 1px solid red;
+margin: auto;
+}
+button{
+    width: 131px;
+    height: 40px;
+    border-radius: 20px;
+    margin: auto;
+    background-color: white;
+    border: white;
+}
+.heading{
+    margin: 298px 248px;
+    width: 944px;
+height: 356px;
+top: 298px;
+left: 248px;
+border: 1px solid red;
+font-family: Satoshi;
+}
+.heading > h1{
+    width: 944px;
+height: 216px;
+border: 1px solid red;
+font-size: 80px;
+font-weight: 900;
+line-height: 108px;
+text-align: center;
+margin: auto;
+color: #FFFFFF;
+}
+.heading > h4{
+    width: 860.48px;
+height: 64px;
+border: 1px solid red;
+margin: auto;
+font-size: 24px;
+font-weight: 700;
+line-height: 32.4px;
+text-align: center;
+color: #DADDD8;
+}
+.action{
+    width: 338.48px;
+height: 44px;
+top: 610px;
+left: 560.1px;
+border: 1px solid red;
+margin: auto;
+}
+.action > button{
+    width: 162.64px;
+height: 40px;
+padding: 8px 14px 8px 14px;
+border-radius: 20px;
+background: linear-gradient(205.14deg, #3F37C9 30.04%, #4CC9F0 186.57%);
+
+}
+.action > a{
+    text-decoration: none;
+    color: black;
+    width: Fixed (162.64px)px;
+height: 44px;
+padding: 10px 20px 10px 20px;
+gap: 8px;
+color: white;
+backdrop-filter: blur(300px)
+}
+.backed > h4{
+    width: 142.28px;
+height: 32px;
+border: 1px solid red;
+margin: auto;
+font-family: Satoshi;
+font-size: 24px;
+font-weight: 700;
+line-height: 32.4px;
+text-align: center;
+color: white;
+}
+.backed > .logos{
+    margin: auto;
+    width: 661px;
+height: 100px;
+border: 1px 0px 0px 0px;
+border-radius: 32px;
+border-image-source: linear-gradient(122.35deg, rgba(255, 255, 255, 0.21) 19.78%, rgba(255, 255, 255, 0) 187.39%);
+background: linear-gradient(92.98deg, rgba(217, 217, 217, 0.07) 32.09%, rgba(217, 217, 217, 0.05) 116.98%);
+}
+.logos > .inside{
+    border: 1px solid red;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.box{
+    width: 944px;
+height: 212px;
+    margin: auto;
+    margin-top: 20px;
+border: 1px 0px 0px 0px;
+border: 1px solid;
+border-image-source: linear-gradient(270deg, rgba(255, 255, 255, 0) 6.2%, #FFFFFF 54.5%, rgba(255, 255, 255, 0) 89.56%);
+}
+.box > h3{
+    width: 944px;
+height: 129px;
+font-family: Satoshi;
+font-size: 32px;
+font-weight: 700;
+line-height: 43.2px;
+text-align: center;
+color: white;
+}
+.colum{
+    width: 1104px;
+height: 372px;
+border: 1px solid red;
+margin: auto;
+color: white;
+margin-top: 130px;
+}
+.colum > h2{
+    width: 786px;
+height: 130px;
+border: 1px solid red;
+margin: auto;
+font-family: Satoshi;
+font-size: 48px;
+font-weight: 900;
+line-height: 64.8px;
+text-align: center;
+
+}
+.colum > .phts{
+    border: 1px solid red;
+margin: auto;
+margin-top: 20px;
+    width: 1104px;
+height: 105px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+gap: 20px;
+}
+.sec1{
+    width: 1306.03px;
+height: 877.97px;
+border: 1px solid red;
+margin: auto;
+color: white;
+}
+.sec1 > h2{
+    border: 1px solid red;
+margin: auto;
+    width: 864px;
+height: 130px;
+font-family: Satoshi;
+font-size: 48px;
+font-weight: 900;
+line-height: 64.8px;
+text-align: center;
+}
+.sec1 > h4{
+    border: 1px solid red;
+    margin: auto;
+    width: 776px;
+height: 64px;
+font-family: Satoshi;
+font-size: 24px;
+font-weight: 700;
+line-height: 32.4px;
+text-align: center;
+}
+
+.sec1 > .child{
+    border: 1px solid red;
+    margin: auto;
+    width: 1104px;
+height: 369px;
+margin-top: 80px;
+
+}
+/* .animation{
+    width: 375.64px;
+height: 656.12px;
+top: 136.53px;
+left: 62.35px;
+padding: 0px 0.01px 0.02px 0.01px;
+background-color: #c893f4;
+transform: rotate(15.79 deg) scale(1.5) skew(30deg,20deg);
+} */
+ .text > h3{
+    border: 1px solid red;
+    margin: auto;
+    width: 629px;
+height: 86px;
+font-family: Satoshi;
+font-size: 32px;
+font-weight: 700;
+line-height: 43.2px;
+text-align: left;
+ }
+ .text > ul{
+    width: 720px;
+height: 190px;
+font-family: Satoshi;
+font-size: 24px;
+font-weight: 500;
+line-height: 32.4px;
+text-align: left;
+
+ }
+ .product{
+    width: 1192.62px;
+height: 1027.83px;
+border: 1px solid red;
+    margin: auto;
+    color: white;
+ }
+ .product >h2{
+    border: 1px solid red;
+    margin: auto;
+    width: 438px;
+height: 65px;
+font-family: Satoshi;
+font-size: 48px;
+font-weight: 900;
+line-height: 64.8px;
+text-align: center;
+}
+.Pchild {
+    border: 1px solid red;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.section4{
+    width: 1262px;
+height: 523px;
+border: 1px solid red;
+    margin: auto;
+    color: white;
+}
+.section4 > h2{
+    border: 1px solid red;
+    margin: auto;
+    width: 699px;
+height: 130px;
+font-family: Satoshi;
+font-size: 48px;
+font-weight: 900;
+line-height: 64.8px;
+text-align: center;
+}
+.section4 > div{
+    border: 1px solid red;
+    margin: auto;
+    width: 1030px;
+height: 169px;
+display: grid;
+grid-template-columns: repeat(4,1fr);
+align-items: center;
+
+}
+.sec4 > siv{
+    width: 199px;
+height: 50px;
+
+}
+.fo{
+   align-items: center;
+    margin: auto;
+    width: 1278px;
+height: 844.25px;
+
+}
